@@ -31,4 +31,4 @@ It is designed with a simple interface so users can quickly perform mathematical
 ## 🚀 Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/Calculator8.git
+   git clone https://github.com/aliasghar08/Calculator8.git
